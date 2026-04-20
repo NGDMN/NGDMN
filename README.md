@@ -1,70 +1,56 @@
-## English (Português abaixo)
+- 👋 Hi, I'm Neil Goodman
+- 👀 I'm interested in **data engineering, automation, and building reliable data pipelines**
+- 🌱 I'm currently deepening my skills in **Databricks, Azure SQL and Azure Data Factory**
 
-
-- 👋 Hi, I’m **Neil Goodman**  
-- 👀 I’m interested in **software development, automation, and optimizing processes**
-- 💻 I’m currently learning **Python**
+---
 
 ## About Me
 
-I am a Software Engineering student at FIAP and transitioning my career to the technology field. I have a great passion for developing solutions that increase productivity and optimize processes. Currently, my skills include:
+Data professional with experience across the full data cycle: integration, transformation, modeling, visualization and automation. Building analytical solutions that replace manual processes with reliable, structured data flows.
 
-- **Python**
-- **VBA**
-- **Power Automate**
-- **Git**
-- **Django**
-- **Power BI**
-- **SAP**
+Currently a **Data & Automation Intern at Volvo Group**, where I design and maintain the data architecture for training programs: star schema, snapshot-based historical tracking and RLS, with an ongoing migration toward Databricks. I also run **Goodman Solution Experts**, developing data and automation solutions as a freelancer.
 
+Pursuing a **Software Engineering degree at FIAP** (2024–2028).
+
+---
+
+## Technical Skills
+
+- **Languages & Tools:** Python · SQL · Power BI (DAX, Power Query) · Excel (VBA) · Power Automate · PostgreSQL · Git
+- **Platforms:** SAP S/4HANA · SharePoint
+- **Concepts:** ETL · Data Modeling · Dimensional Modeling · Data Integration · Data Quality · Web Scraping
+- **Working on:** Databricks · Azure SQL · Azure Data Factory
+
+---
 
 ## Professional Experience
 
-- **Junior Analyst at Votorantim S.A.**
-  - Developed automations and business process improvements using Python, VBA, Power Automate, and Power BI.
-  - Implemented solutions to optimize workflows, reducing the need for repetitive manual tasks.
-  - Provided support and maintenance for existing Power Automate flows, improving efficiency and consistency.
-  - Automated daily tasks by integrating VBA with SAP, enhancing operational efficiency.
+**Data & Automation Intern — Volvo Group**
+- Design and maintain data architecture for training academies, consolidating multiple sources into scalable dimensional models with snapshot-based historical tracking and RLS
+- Build Power BI dashboards with DAX measures adapted for management, technical, commercial and operational audiences
+- Develop automated workflows integrating Microsoft Forms, SharePoint and Power Automate for real-time registration management
 
-- **Administrative Assistant in HR at CNH Industrial**
-  - Created automated workflows with Power Automate, VBA, and Pipefy, replacing manual processes with digital ones and improving efficiency.
-  - Contributed to transitioning critical processes into digital workflows, ensuring greater accuracy and reliability.
+**Data & Automation Solutions Developer — Goodman Solution Experts**
+- Develop ETL processes and automation solutions using Python and PostgreSQL for analytical consumption
 
-Thank you for visiting my repository! For any questions or collaboration opportunities, feel free to get in touch.
+**Junior Controlling Analyst — Votorantim S.A.**
+- Reduced quarterly closing time from 6 hours to 2 hours through VBA automation and process standardization
+- Developed Python scripts for automated data collection and built Power BI dashboards to support decision-making
 
+**HR Administrative Assistant — CNH Industrial**
+- Built analytical dashboard to analyze 1,200+ survey responses, contributing to a 15-point NPS increase and R$68k savings in 6 months
+- Structured ETL processes for monthly employee benefits consolidation across multiple data sources
 
------
+---
 
+## Languages
 
-## Português
+- 🇺🇸 English (Advanced)
+- 🇧🇷 Portuguese (Native)
+- 🇫🇷 French (Basic)
 
+---
 
-- 👋 Olá, eu sou **Neil Goodman**  
-- 👀 Tenho interesse em **desenvolvimento de software, automação e otimização de processos**  
-- 💻 Atualmente estou aprendendo **Python**
+Thanks for visiting! Feel free to reach out for questions or collaboration opportunities.
 
-## Sobre Mim
-
-Sou aluno de Engenharia de Software na FIAP e estou em transição de carreira para a área de tecnologia. Tenho uma grande paixão por desenvolver soluções que aumentem a produtividade e otimizem processos. Atualmente, minhas habilidades incluem:
-
-- **Python**
-- **VBA**
-- **Power Automate**
-- **Git**
-- **Django**
-- **Power BI**
-- **SAP**
-
-## Experiência Profissional
-
-- **Analista JR na Votorantim S.A.**
-  - Desenvolvi automações e melhorias de processos empresariais utilizando Python, VBA, Power Automate e Power BI.
-  - Implementei soluções que otimizaram fluxos operacionais, reduzindo a necessidade de tarefas repetitivas manuais.
-  - Ofereci suporte e manutenção a fluxos existentes no Power Automate, melhorando a eficiência e consistência.
-  - Implementei automações em VBA integradas ao SAP, otimizando atividades diárias e aumentando a eficiência operacional.
-
-- **Auxiliar Administrativo de RH na CNH Industrial**
-  - Desenvolvi fluxos automatizados com Power Automate, VBA e Pipefy, substituindo processos manuais por digitais e aumentando a eficiência.
-  - Colaborei na transição de processos críticos para fluxos digitais, garantindo maior precisão e confiabilidade operacional.
-
-Obrigado por visitar meu repositório! Para qualquer dúvida ou oportunidade de colaboração, sinta-se à vontade para entrar em contato.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goodmanneil)
